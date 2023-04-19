@@ -1,3 +1,3 @@
 # GoIT-praca-domowa
 
-https://krystiankotecki.github.io/GoIT-praca-domowa-1/
+https://krystiankotecki.github.io/goit-markup-hw-02/
