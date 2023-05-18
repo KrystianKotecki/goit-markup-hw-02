@@ -22,7 +22,7 @@ body {
 
   color: #757575;
 }
-.title-link {
+.title-link-first-phrase {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -34,14 +34,26 @@ body {
 
   color: #2196f3;
 }
+.title-link-second-phrase {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
 .navi-links:hover,
 .navi-links:focus,
 .navi-links:active {
   color: #2196f3;
 }
-.navi-kontakt:hover,
-.navi-kontakt:focus,
-.navi-kontakt:active {
+.navi-contact:hover,
+.navi-contact:focus,
+.navi-contact:active {
   color: #2196f3;
 }
 .main-section {
