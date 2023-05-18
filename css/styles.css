@@ -10,6 +10,8 @@ body {
   line-height: 16px;
   letter-spacing: 0.02em;
 
+  cursor: pointer;
+
   color: #212121;
 }
 .navi-contact {
@@ -19,6 +21,8 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+
+  cursor: pointer;
 
   color: #757575;
 }
@@ -154,6 +158,8 @@ body {
 
   text-align: center;
   letter-spacing: 0.03em;
+
+  cursor: pointer;
 
   color: #212121;
 }
