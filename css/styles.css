@@ -1,3 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
 .navi-links {
   font-family: "Roboto";
   font-style: normal;
@@ -8,7 +12,7 @@
 
   color: #212121;
 }
-.navi-kontakt {
+.navi-contact {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
