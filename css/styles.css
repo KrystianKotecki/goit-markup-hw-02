@@ -7,7 +7,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16;
+  line-height: 1.1;
   letter-spacing: 0.02em;
 
   cursor: pointer;
@@ -19,7 +19,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16;
+  line-height: 1.1;
   letter-spacing: 0.02em;
 
   cursor: pointer;
@@ -31,13 +31,26 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31;
+  line-height: 1.2;
   /* identical to box height */
 
   letter-spacing: 0.03em;
 
   color: #2196f3;
 }
+.title-second-phrase {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
 .navi-links:hover,
 .navi-links:focus,
 .navi-links:active {
@@ -53,7 +66,7 @@ body {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60;
+  line-height: 1.4;
   /* or 136% */
 
   text-align: center;
@@ -67,7 +80,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 30;
+  line-height: 1.9;
   /* identical to box height, or 188% */
 
   display: flex;
@@ -82,7 +95,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  line-height: 16;
+  line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
@@ -93,7 +106,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24;
+  line-height: 1.7;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -105,7 +118,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -116,7 +129,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -127,7 +140,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19;
+  line-height: 1.2;
   /* identical to box height */
 
   text-align: center;
@@ -140,7 +153,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 19;
+  line-height: 1.2;
   /* identical to box height */
 
   text-align: center;
@@ -153,7 +166,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26;
+  line-height: 1.6;
   /* identical to box height, or 162% */
 
   text-align: center;
@@ -173,7 +186,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 36;
+  line-height: 2;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -185,7 +198,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 30;
+  line-height: 1.9;
   /* identical to box height, or 188% */
 
   letter-spacing: 0.03em;
