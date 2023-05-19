@@ -1,6 +1,11 @@
+:root {
+  --brand-color: #2196f3;
+  --brand-color2: #212121;
+  --brand-color3: #757575;
+}
 body {
   font-family: "Roboto", sans-serif;
-  color: #212121;
+  color: var(--brand-color2);
 }
 .navi-links {
   font-family: "Roboto";
@@ -12,7 +17,7 @@ body {
 
   cursor: pointer;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .navi-contact {
   font-family: "Roboto";
@@ -24,7 +29,7 @@ body {
 
   cursor: pointer;
 
-  color: #757575;
+  color: var(--brand-color3);
 }
 .title-link {
   font-family: "Raleway";
@@ -36,7 +41,7 @@ body {
 
   letter-spacing: 0.03em;
 
-  color: #2196f3;
+  color: var(--brand-color);
 }
 .title-second-phrase {
   font-family: "Raleway";
@@ -54,12 +59,12 @@ body {
 .navi-links:hover,
 .navi-links:focus,
 .navi-links:active {
-  color: #2196f3;
+  color: var(--brand-color);
 }
 .navi-contact:hover,
 .navi-contact:focus,
 .navi-contact:active {
-  color: #2196f3;
+  color: var(--brand-color);
 }
 .main-section {
   font-family: "Roboto";
@@ -99,7 +104,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .index-div-paragraph {
   font-family: "Roboto";
@@ -111,7 +116,7 @@ body {
 
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color: var(--brand-color3);
 }
 .second-section-header {
   font-family: "Roboto";
@@ -122,7 +127,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .third-section-header {
   font-family: "Roboto";
@@ -133,7 +138,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .team-names {
   font-family: "Roboto";
@@ -146,7 +151,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .team-description {
   font-family: "Roboto";
@@ -159,7 +164,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color: var(--brand-color3);
 }
 .portfolio-button {
   font-family: "Roboto";
@@ -174,7 +179,7 @@ body {
 
   cursor: pointer;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .portfolio-button:hover,
 .portfolio-button:focus,
@@ -191,7 +196,7 @@ body {
 
   letter-spacing: 0.06em;
 
-  color: #212121;
+  color: var(--brand-color2);
 }
 .portfolio-img-type {
   font-family: "Roboto";
@@ -203,5 +208,5 @@ body {
 
   letter-spacing: 0.03em;
 
-  color: #757575;
+  color: var(--brand-color3);
 }
